@@ -65,9 +65,13 @@ Currently completing my professional internship, participating in the analysis, 
 
 ## Featured Projects
 
-### 📦 Inventory Management System for SMEs
+### 📦 Inventory Management System
 
-Web-based system developed for inventory administration and control, including user management, roles, CRUD modules, and relational database integration.
+Web-based inventory management system for SMEs, including product management, inventory control, users and roles, reporting, and database backup functionality.
+
+**Technologies:** PHP, MySQL/MariaDB, JavaScript, HTML, CSS, MVC, FPDF
+
+🔗 [View Project](https://github.com/aledeveloperco/inventory-management-system)
 
 **Technologies:** PHP · MySQL · HTML · CSS · JavaScript
 
